@@ -16,7 +16,7 @@ namespace Demo
 
         public string SendMessage()
         {
-            return "This is a default message.";
+            return "This is an awesome default message.";
         }
     }
 }
