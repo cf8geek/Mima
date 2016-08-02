@@ -9,7 +9,6 @@ namespace Demo
 {
     public class Bootstrapper
     {
-        private AssemblyCatalog catalog;
 
         public Bootstrapper()
         {
